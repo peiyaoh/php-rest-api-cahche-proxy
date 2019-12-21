@@ -30,6 +30,8 @@ $cache_url = "https://xyz.com".$sub_folder;
 
 ## Upload the script
 
+Upload index.php and .htaccess (if needed) to a folder on your server (e.g., a folder named swproxy).
+
 ## Create two folders
 
 Create tmp and json folders under the same folder as the index.php.
